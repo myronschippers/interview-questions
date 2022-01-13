@@ -1,6 +1,6 @@
 # The Technical Interview
 
-Every interview will have different questions. These can take many forms including whiteboard problems, computer science theory questions, riddles, live coding on a computer, or Github Repos looking for improvements. Opinions vary greatly on the efficacy of each of these methods. The point of this lecture isn’t to make you an expert in any of these topics or to say Prime endorses them, it’s to make it so that when you hear these terms in an interview, you can know what to expect. Not knowing these things DOES NOT mean you will not get a job.
+Every interview will have different questions. These can take many forms including whiteboard problems, computer science theory questions, riddles, live coding on a computer, or Github Repos looking for improvements. Opinions vary greatly on the efficacy of each of these methods. The point of this lecture isn’t to make you an expert in any of these topics or to say Prime endorses them, it’s to make it so that when you hear these terms in an interview, you can know what to expect. Not knowing these things DOES NOT mean you will not get a job, you should be able to explain what you do and do not know about the questions that come up. 
 
 
 #### General Questions
