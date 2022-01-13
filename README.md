@@ -162,3 +162,4 @@ More here:
 - https://www.tutorialspoint.com/questions_and_answers.htm
 - https://www.toptal.com/javascript/interview-questions
 - https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers
+- https://www.indeed.com/career-advice/interviewing/interview-questions-for-developers
